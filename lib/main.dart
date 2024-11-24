@@ -19,7 +19,7 @@ class EscapeRush extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: '2048 Game',
+      title: 'Escape Rush',
       theme: ThemeData(
         primarySwatch: const MaterialColor(0xFF1F2B3E, {
           50: Color(0xFFEDF0F0), // paleGray
